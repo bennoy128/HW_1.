@@ -45,7 +45,7 @@ nav {
   flex-direction: row;
   justify-content: space-evenly;
 }
-ul > li {
+ul li {
   margin: 10px;
 }
 li {
@@ -87,7 +87,7 @@ h2 {
   flex-wrap: wrap;
   padding: 14px;
 }
-img {
+.card img {
   width: 196;
   height: 183;
 }
